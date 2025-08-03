@@ -1,0 +1,8 @@
+site_name: Aleksandr Barmin - Building better worlds with better software
+site_url: https://abarmin.pro
+theme: 
+  name: material
+nav: 
+  - index.md
+plugins: 
+  - meta
